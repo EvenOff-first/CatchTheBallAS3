@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target-player": "11.7",
+    "source-path": ["src"],
+    "output": "bin/CatchTheBall.swf",
+    "targets": ["SWF"],
+    "debug": true
+  },
+  "mainClass": "Main"
+}
